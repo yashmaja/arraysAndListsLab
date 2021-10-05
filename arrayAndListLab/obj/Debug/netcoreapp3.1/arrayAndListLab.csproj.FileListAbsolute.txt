@@ -1,0 +1,14 @@
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\obj\Debug\netcoreapp3.1\arrayAndListLab.csproj.AssemblyReference.cache
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\obj\Debug\netcoreapp3.1\arrayAndListLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\obj\Debug\netcoreapp3.1\arrayAndListLab.AssemblyInfoInputs.cache
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\obj\Debug\netcoreapp3.1\arrayAndListLab.AssemblyInfo.cs
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\obj\Debug\netcoreapp3.1\arrayAndListLab.csproj.CoreCompileInputs.cache
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\bin\Debug\netcoreapp3.1\arrayAndListLab.exe
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\bin\Debug\netcoreapp3.1\arrayAndListLab.deps.json
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\bin\Debug\netcoreapp3.1\arrayAndListLab.runtimeconfig.json
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\bin\Debug\netcoreapp3.1\arrayAndListLab.runtimeconfig.dev.json
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\bin\Debug\netcoreapp3.1\arrayAndListLab.dll
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\bin\Debug\netcoreapp3.1\arrayAndListLab.pdb
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\obj\Debug\netcoreapp3.1\arrayAndListLab.dll
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\obj\Debug\netcoreapp3.1\arrayAndListLab.pdb
+C:\Users\yashi\source\repos\arrayAndListLab\arrayAndListLab\obj\Debug\netcoreapp3.1\arrayAndListLab.genruntimeconfig.cache
